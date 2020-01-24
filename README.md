@@ -1,2 +1,2 @@
 # price-tracker-PSN-Xbox
-Price tracker that web scrapes PSN and Xbox's online stores for sales using Python
+Uses Python to scrape PSN and Xbox's online stores (NA, EU) to track sales.
